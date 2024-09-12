@@ -2,6 +2,8 @@
 
 Soy desarrolladora front-end con experiencia en proyectos tecnológicos para clientes del sector bancario.
 
+![Mi perfil profesional](./img/PerfilLinkedin.jpeg)
+
 ## Especialización
 
 - **Desarrollo de aplicaciones web:** Utilizando **React** y **JavaScript**, garantizando interfaces de usuario dinámicas y modernas.
