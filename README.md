@@ -4,6 +4,10 @@
 
 Mi enfoque mezcla la funcionalidad con la estética kawaii, la sostenibilidad con el detalle técnico, y el código con una narrativa visual que emociona. 
 
+
+![Soraya Povedano Gallardo](./images/sorayapg.png)
+
+
 ---
 
 ## ✨ Sobre mí
@@ -68,17 +72,21 @@ Animaciones suaves, interfaz amigable y esencia propia.
 
 ---
 
-### 🎨 [Storyboard Interactivo](https://soraya-porfolio.web.app/#storyboard)  
+### 🎨 Storyboard Interactivo  
 > Una aventura visual que cuenta mi historia como dev.  
 Colores pastel, scroll animado y narrativa visual UX.  
 
-![Mi Storyboard](https://soraya-porfolio.web.app/assets/storyboard-preview.jpg)
+![Mi Storyboard](./images/storyboard.png)
 
 ---
 
 ## 💌 Carta de presentación creativa
 
-Me gusta diseñar lo que imagino, programar lo que visualizo y contar historias a través del código. En mi [carta de presentación](https://soraya-porfolio.web.app/assets/SorayaCartaPresentacion.pdf), comparto cómo el desarrollo puede ser emocional, sostenible y funcional.
+Me gusta diseñar lo que imagino, programar lo que visualizo y contar historias a través del código.  
+Aquí te comparto visualmente mi carta de presentación, una muestra de diseño y propósito:
+
+![Carta de Presentación](./images/carta-presentacion.png)
+
 
 ---
 
