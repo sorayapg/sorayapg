@@ -44,16 +44,27 @@ Mi enfoque mezcla la funcionalidad con la estética kawaii, la sostenibilidad co
 
 ## 💼 Experiencia profesional
 
+### 🔹 ** SIMAD Frontend Developer (Arquitectura híbrida PHP / JavaScript) - noviembre 2025 – actualidad ** 
+- Desarrollo de componentes frontend desde cero, gestionando el ciclo completo desde la definición hasta la integración con backend.  
+- Renderizado dinámico del HTML, con actualización reactiva del DOM en función de cambios en las props y el estado. 
+- Diseño de estilos CSS encapsulados, alineados pixel-perfect con los diseños proporcionados en Figma.
+- Gestión avanzada de eventos, incluyendo la implementación de listeners, callbacks y control de selección de componentes.
+- Comunicación backend-frontend, sincronizando datos mediante actualización de props y manteniendo la consistencia en la interacción con el backend.
+- Depuración avanzada utilizando herramientas de desarrollo (Chrome DevTools), análisis de eventos y optimización de rendimiento.
+
+
+### 🔹 **Visualia 360 (2025)**  
+- Integración de APIs como VIDsigner (firma digital).  
+- Traducción dinámica multilenguaje con JavaScript.  
+- Personalización de sitios con WordPress y pruebas funcionales.
+
 ### 🔹 **DXC Technology (2023 – 2024)**  
 - Desarrollo de interfaces interactivas con React.  
 - Proyecto galardonado de cálculo de huella de carbono.  
 - Automatización con Jest y Selenium.  
 - Trabajo ágil en equipos multidisciplinares.
 
-### 🔹 **Visualia 360 (2025)**  
-- Integración de APIs como VIDsigner (firma digital).  
-- Traducción dinámica multilenguaje con JavaScript.  
-- Personalización de sitios con WordPress y pruebas funcionales.
+
 
 ---
 
